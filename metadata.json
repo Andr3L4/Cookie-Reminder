@@ -1,0 +1,5 @@
+{
+  "name": "Cookie Countdown Timer",
+  "description": "A friendly reminder app to eat your cookies within 4 hours. Set the timer and don't let your delicious cookies go stale!",
+  "requestFramePermissions": []
+}
